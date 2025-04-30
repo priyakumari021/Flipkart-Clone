@@ -1,20 +1,13 @@
 # Flipkart Clone
 
-Welcome to the **Flipkart Clone** repository! This is a web-based clone of Flipkart, developed using HTML, CSS, and JavaScript. The project aims to mimic the look and feel of the Flipkart homepage, providing a visually appealing and responsive user interface.
-
-### 🌐 Live Demo
-👉 [View the deployed site here!](https://karthikyandrapu.github.io/Flipkart-Clone/)
-
----
+Welcome to the **Flipkart Clone** repository! This is a web-based clone of Flipkart, developed using HTML, CSS, and JavaScript. The project aims to mimic the look and feel of the Flipkart homepage, providing a visually appealing and responsive user interface
 
 ## 📋 Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Presentation](#presentation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -35,18 +28,6 @@ Welcome to the **Flipkart Clone** repository! This is a web-based clone of Flipk
 - **HTML5**: Structuring the webpage.
 - **CSS3**: Styling and layout design.
 - **JavaScript**: Adding interactivity to the UI.
-
----
-
-## 📸 Screenshots
-
-### Homepage Preview:
-
-![Homepage Screenshot](https://github.com/karthikyandrapu/Flipkart-Clone/blob/91b766c331cb77ba014b5e5372dd05f016f9e66f/images/Screenshots/Homepage.png?raw=true)
-
-### Responsive Design:
-
-![Responsive Design](https://github.com/karthikyandrapu/Flipkart-Clone/blob/91b766c331cb77ba014b5e5372dd05f016f9e66f/images/Screenshots/Responsive.png?raw=true)
 
 ---
 
@@ -79,12 +60,6 @@ To set up this project locally, follow these steps:
 
 ---
 
-## 📑 Presentation
-
-👉 [View the project presentation here!](https://docs.google.com/presentation/d/1LuT60j0giNhXdq9022FCxWp2tGRH45lt/edit#slide=id.p1)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -114,6 +89,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [karthikyandrapu](https://github.com/karthikyandrapu)
+- **GitHub**: [priya kumari](https://github.com/priyakumari021/Flipkart-Clone)
 
 ---
