@@ -7,7 +7,6 @@ Welcome to the **Flipkart Clone** repository! This is a web-based clone of Flipk
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,7 +37,7 @@ To set up this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/karthikyandrapu/Flipkart-Clone.git
+   git clone (https://github.com/priyakumari021/Flipkart-Clone)
    ```
 
 2. **Navigate to the project directory**:
@@ -51,14 +50,6 @@ To set up this project locally, follow these steps:
 
    - Simply open the `index.html` file in any modern browser.
 
----
-
-## 🚀 Usage
-
-- **Online Demo**: Access the live version via [this link](https://karthikyandrapu.github.io/Flipkart-Clone/).
-- **Offline**: Open `index.html` in a web browser.
-
----
 
 ## 🤝 Contributing
 
